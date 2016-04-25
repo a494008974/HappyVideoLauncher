@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">系统桌面</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="recomend">推荐</string>
+    
+    <string name="fav_menu">按菜单切换应用</string>
+    <string name="index">主页</string>
+    <string name="movie">影视</string>
+	<string name="add">添加常用</string>
+	<string name="init_msg">应用正在安装，请稍后...</string>
+	<string name="init_install">正在安装:</string>
+	<string name="more">更  多</string>
+	<string name="more_first">全部应用</string>
+	<string name="voole">CIBN好友</string>
+	<string name="setting">设置</string>
+	<string name="netsetting">网络</string>
+	<string name="select_app">选择并添加应用:</string>
+	<string name="select_replace">选择并替换应用:</string>
+	<string name="detail">
+　　			任何用户在下载、使用本客户端之前，均要仔细阅读本声明，所有内容均来自互联网，所有权为第三方公司所有，用户在使用过程中产生法律问题的纠纷，本公司一律不承担相应的法律责任；用户可以选择不使用本客户端，一旦使用，既被视为对本声明全部内容的认可和接受！\n　　用户理解并且同意，用户通过本客户端所获得的材料、信息、产品以及服务完全处于用户自己的判断，并承担因使用该内容而引起的所有风险，包括但不限于因对内容的正确性、完整性或实用性的依赖而产生的风险。用户在使用本客户端的过程中，因受视频或相关内容误导或欺骗而导致或可能导致的任何心理、生理上的伤害以及经济上的损失，一概与本公司无关！
+	</string>
+	
+	<string name="apps">应用程序</string>
+	<string name="app_delete_long">长按ok移除应用</string>
+</resources>

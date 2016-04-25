@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/bsw_apps_pane"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_2"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/dimen_80_dip"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" >
+
+            <TextView
+                android:id="@+id/bsw_apps_bt"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/dimen_50_dip"
+                android:gravity="center"
+                android:text="@string/apps"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dimen_36_dip" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/dimen_50_dip"
+                android:alpha="0.2"
+                android:gravity="center"
+                android:textColor="@color/white"
+                android:text="@string/app_delete_long"
+                android:textSize="@dimen/dimen_24_dip" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="center_horizontal" >
+
+        <GridView
+            android:id="@+id/bsw_all_apps"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/dimen_20_dip"
+            android:layout_marginLeft="@dimen/dimen_40_dip"
+            android:layout_marginRight="@dimen/dimen_40_dip"
+            android:layout_marginBottom="@dimen/dimen_55_dip"
+            android:verticalSpacing="@dimen/dimen_12_dip"
+            android:horizontalSpacing="@dimen/dimen_12_dip"
+            android:listSelector="@drawable/focus"
+            android:drawSelectorOnTop="true"
+            android:scrollbars="none"
+            android:gravity="center"
+            android:numColumns="5" />
+    </RelativeLayout>
+</LinearLayout>

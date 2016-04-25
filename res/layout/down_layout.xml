@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_60"
+    android:gravity="center" >
+
+    <RelativeLayout
+        android:layout_width="@dimen/dimen_800_dip"
+        android:layout_height="@dimen/dimen_500_dip"
+        android:background="@drawable/detail_bg"
+        android:padding="@dimen/dimen_20_dip" >
+
+        <LinearLayout
+            android:id="@+id/top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" >
+
+            <ImageView
+                android:id="@+id/app_icon"
+                android:layout_width="@dimen/dimen_120_dip"
+                android:layout_height="@dimen/dimen_120_dip"
+                android:layout_marginLeft="@dimen/dimen_40_dip"
+                android:layout_marginTop="@dimen/dimen_10_dip"/>
+
+            <TextView
+                android:id="@+id/app_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/dimen_20_dip"
+                android:layout_marginTop="@dimen/dimen_20_dip"
+                android:text="@string/app_name"
+                android:textColor="@android:color/white"
+                android:textSize="@dimen/dimen_32_dip" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/app_setup"
+            android:layout_width="@dimen/dimen_280_dip"
+            android:layout_height="@dimen/dimen_90_dip"
+            android:layout_below="@+id/top"
+            android:background="@drawable/bt_selector" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_50_dip"
+            android:layout_alignParentBottom="true"
+            android:orientation="vertical" >
+			<TextView 
+			   android:id="@+id/app_detail"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:gravity="right"
+	            android:textColor="@android:color/white"
+            	android:textSize="@dimen/dimen_18_dip"/>
+            <ProgressBar
+                android:id="@+id/app_down_progressBar"
+                style="@style/progressbar_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" >
+            </ProgressBar>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/app_setup"
+            android:layout_centerHorizontal="true"
+            android:layout_margin="@dimen/dimen_5_dip"
+            android:text="@string/detail"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/dimen_18_dip" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

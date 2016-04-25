@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center" >
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_1"
+        style="@style/Content_View_Style_short_short"
+        android:layout_marginBottom="@dimen/dimen_5_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_2"
+        style="@style/Content_View_Style_short_short"
+        android:layout_marginBottom="@dimen/dimen_5_dip"
+        android:layout_below="@id/six_1" >
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_3"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/six_2" >
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_4"
+        style="@style/Content_View_Style_long_long"
+        android:layout_toRightOf="@id/six_1"
+        android:layout_marginBottom="@dimen/dimen_5_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_5"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/six_4"
+        android:layout_toRightOf="@id/six_1">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_6"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/six_4"
+        android:layout_toRightOf="@id/six_5">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_7"
+        style="@style/Content_View_Style_long_long"
+        android:layout_toRightOf="@id/six_4"
+        android:layout_marginBottom="@dimen/dimen_5_dip" >
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_8"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/six_7"
+        android:layout_toRightOf="@id/six_4" >
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/six_9"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/six_7"
+        android:layout_toRightOf="@id/six_8">
+    </com.mylove.happyvideo.view.ContentView>
+</RelativeLayout>

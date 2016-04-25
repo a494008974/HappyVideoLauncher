@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configs xmlns:launcher="http://schemas.android.com/apk/res/com.mylove.happyvideo">
+	<config
+        launcher:title="@string/add"
+        launcher:tag="101"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="102"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="103"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="104"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="105"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="106"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="107"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="108"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="109"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="110"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="111"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="112"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="113"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="114"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="115"
+        launcher:pname=""
+        
+    />
+	
+	
+	
+	<config
+        launcher:title="@string/add"
+        launcher:tag="201"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="202"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="203"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="204"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="205"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="206"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="207"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="208"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="209"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="210"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="211"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="212"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="213"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="214"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="215"
+        launcher:pname=""
+        
+    />
+	
+	<config
+        launcher:title="@string/add"
+        launcher:tag="301"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="302"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="303"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="304"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="305"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="306"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="307"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="308"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="309"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="310"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="311"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="312"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="313"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="314"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="315"
+        launcher:pname=""
+        
+    />
+	
+	
+	<config
+        launcher:title="@string/add"
+        launcher:tag="401"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="402"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="403"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="404"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="405"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="406"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="407"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="408"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="409"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="410"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="411"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="412"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="413"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="414"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="415"
+        launcher:pname=""
+    />
+	
+	<config
+        launcher:title="@string/add"
+        launcher:tag="801"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="802"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="803"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="804"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="805"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="806"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="807"
+        launcher:pname=""
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="808"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="809"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="810"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="811"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="812"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="813"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="814"
+        launcher:pname=""
+        
+    />
+	<config
+        launcher:title="@string/add"
+        launcher:tag="815"
+        launcher:pname=""
+        
+    />
+</configs>

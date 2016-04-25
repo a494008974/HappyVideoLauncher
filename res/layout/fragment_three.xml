@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center" >
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_1"
+        style="@style/Content_View_Style_long_long"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_2"
+        style="@style/Content_View_Style_short_long"
+        android:layout_marginBottom="@dimen/dimen_10_dip"
+        android:layout_toRightOf="@id/three_1">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_3"
+        style="@style/Content_View_Style_short_long"
+        android:layout_marginBottom="@dimen/dimen_10_dip"
+        android:layout_toRightOf="@id/three_2">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_4"
+        style="@style/Content_View_Style_short_short"
+        android:layout_toRightOf="@id/three_3"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_5"
+        style="@style/Content_View_Style_short_short"
+        android:layout_toRightOf="@id/three_3"
+        android:layout_below="@id/three_4">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_6"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/three_1">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_7"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/three_1"
+        android:layout_toRightOf="@id/three_6">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_8"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/three_1"
+        android:layout_toRightOf="@id/three_7">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_9"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/three_1"
+        android:layout_toRightOf="@id/three_8">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/three_10"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/three_1"
+        android:layout_toRightOf="@id/three_9">
+    </com.mylove.happyvideo.view.ContentView>
+    
+   
+</RelativeLayout>

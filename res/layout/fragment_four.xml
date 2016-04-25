@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center" >
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_1"
+        style="@style/Content_View_Style_short_short"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_2"
+        style="@style/Content_View_Style_short_short"
+        android:layout_marginBottom="@dimen/dimen_10_dip"
+        android:layout_below="@id/four_1">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_3"
+        style="@style/Content_View_Style_long_long"
+        android:layout_toRightOf="@id/four_1"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_4"
+        style="@style/Content_View_Style_short_long"
+        android:layout_toRightOf="@id/four_3"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_5"
+        style="@style/Content_View_Style_short_short"
+        android:layout_toRightOf="@id/four_4"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_6"
+        style="@style/Content_View_Style_short_short"
+        android:layout_toRightOf="@id/four_4"
+        android:layout_below="@id/four_5"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_7"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/four_2"
+        android:layout_marginBottom="@dimen/dimen_10_dip">
+    </com.mylove.happyvideo.view.ContentView>
+
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_8"
+        style="@style/Content_View_Style_short_short"
+        android:layout_toRightOf="@id/four_7"
+        android:layout_below="@id/four_2">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_9"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/four_2"
+        android:layout_toRightOf="@id/four_8">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_10"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/four_2"
+        android:layout_toRightOf="@id/four_9">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    <com.mylove.happyvideo.view.ContentView
+        android:id="@+id/four_11"
+        style="@style/Content_View_Style_short_short"
+        android:layout_below="@id/four_2"
+        android:layout_toRightOf="@id/four_10">
+    </com.mylove.happyvideo.view.ContentView>
+    
+    
+</RelativeLayout>
